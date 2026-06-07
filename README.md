@@ -57,6 +57,15 @@ Focus     : Low-level systems, networking, backend
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahnoun-mouad-233966380/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moadzahnoun37@gmail.com)
 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChimexXy/ChimexXy/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimexXy/ChimexXy/output/snake-light.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChimexXy/ChimexXy/output/snake-dark.svg" />
+  </picture>
+</div>
+
 </div>
 
 <div align="center">
