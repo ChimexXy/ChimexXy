@@ -10,7 +10,6 @@
 Location  : Tetouan, Morocco 🇲🇦
 School    : 1337 (42 Network)
 Focus     : Low-level systems, networking, backend
-<!-- Status    : Finishing the common core — open to my first internship / stage -->
 ```
 
 ### 🛠️ Tech Stack
