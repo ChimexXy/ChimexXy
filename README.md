@@ -2,13 +2,13 @@
   <img src="./banner.svg" width="100%" alt="ChimexXy" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:bd00ff&height=220&section=header&text=ChimexXy&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=C%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Go%20%E2%80%A2%20Python&descAlignY=58&descSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+1337;Systems+Programmer+%7C+C+%2F+C%2B%2B+%2F+Go;I+build+things+from+scratch+%E2%9A%A1" />
 
-</div>
+</div> -->
 
 ---
 
