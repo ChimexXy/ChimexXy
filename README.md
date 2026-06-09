@@ -76,7 +76,6 @@ I specialize in **low-level systems programming**, **networking**, and **backend
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**ZONE_01_POOL**](https://github.com/ChimexXy/ZONE_01_POOL) | Collection of Go programming challenges and algorithms | `Go` |
-| [**BUS_SCRIPT**](https://github.com/ChimexXy/BUS_SCRIPT) | Automation script built in Go | `Go` |
 | [**SCRIPT_YT**](https://github.com/ChimexXy/SCRIPT_YT) | YouTube automation/scripting tool | `Python` |
 
 ### C++ Modules
@@ -84,7 +83,6 @@ I specialize in **low-level systems programming**, **networking**, and **backend
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**CPP_MODULES_42**](https://github.com/ChimexXy/CPP_MODULES_42) | OOP concepts in C++ — inheritance, polymorphism, templates, STL containers, exceptions | `C++` |
-| [**EXAM_RANK_05**](https://github.com/ChimexXy/EXAM_RANK_05) | C++ exam solutions — design patterns and advanced OOP | `C++` |
 
 ---
 
