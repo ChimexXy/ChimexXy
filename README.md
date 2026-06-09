@@ -92,10 +92,10 @@ I specialize in **low-level systems programming**, **networking**, and **backend
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChimexXy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=BD00FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChimexXy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=BD00FF&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChimexXy&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChimexXy&hide_border=true&background=0D1117&stroke=BD00FF&ring=00F0FF&fire=BD00FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E" />
+<img src="https://streak-stats.demolab.com/?user=ChimexXy&hide_border=true&background=0D1117&stroke=BD00FF&ring=00F0FF&fire=BD00FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=ChimexXy&theme=algolia&no-frame=true&column=7&margin-w=10" />
 
